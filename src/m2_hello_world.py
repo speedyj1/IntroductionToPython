@@ -20,7 +20,7 @@ print('Hello, World')
 #        Run 'name of file'
 #   After running, find the Console tab (below) and confirm that
 #        Hello, World
-#   did indeed get printed (displayed) on the Console.
+#   did indeed get printed (displayed) on the Console. DONE
 #
 ########################################################################
 
